@@ -2,7 +2,7 @@ CC=gcc
 CXX=g++
 RM=rm -f
 
-TARGET=sumArray
+TARGET=../sumArray
 
 INCLUDES=-I./include
 LDFLAGS=
